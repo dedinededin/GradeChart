@@ -2,6 +2,9 @@
 This java codes generates grade chart from a text file called data.txt
 Text file should follow this pattern;
 Coursename,EvaluationType:Percentage
+
+In this project I learned how to hash string into RGB color.
+
 ## **Example**
 The input: data.txt
 
